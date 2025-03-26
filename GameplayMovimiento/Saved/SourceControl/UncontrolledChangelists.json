@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/Movimiento/BP_Character.uasset",
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/ThirdPerson/Maps/BasicCharacter.umap",
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/Movimiento/BP_GameModeWASD.uasset",
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/Movimiento/BP_GameModeWASD_2.uasset",
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/Movimiento/BP_GameModeWAS.uasset",
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/Movimiento/BP_ThirdPersonGameMode1.uasset",
+				"C:/Users/tania/Documents/UEM/GAMEPLAY_PROTOTIPADO/Modulo7Gameplay/GameplayMovimiento/Content/Movimiento/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/saul_/Github/Modulo7/Modulo7Gameplay/GameplayMovimiento/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/saul_/Github/Modulo7/Modulo7Gameplay/GameplayMovimiento/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset",
 				"C:/Users/saul_/Github/Modulo7/Modulo7Gameplay/GameplayMovimiento/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset",
